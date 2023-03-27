@@ -1,7 +1,7 @@
 {
 
   "manifest_version": 2,
-  "name": "Borderify",
+  "name": "YT Exten",
   "version": "1.0",
 
   "description": "Adds a red border to all webpages matching mozilla.org.",
