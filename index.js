@@ -8,7 +8,7 @@ const scrubberButtonClass = ".ytp-scrubber-button";
 
 const htmlVideoClass = ".html5-main-video";
 
-const adSkipButtonClass = ".ytp-ad-skip-button";
+const adSkipButtonClass = "button[class^='.ytp-ad-skip-button']";
 
 if ("undefined" == typeof window.jQuery) {
   console.log("JQ not found");
